@@ -7,3 +7,15 @@ newsapi-python>=0.2.6
 openai>=1.30.0
 langchain>=0.1.20
 sentence-transformers>=2.6.1
+
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pandas>=1.3.0
+PyMuPDF>=1.18.0
+pathway-core>=0.7.0
+numpy>=1.21.0
+requests>=2.26.0
+streamlit>=1.12.0
+beautifulsoup4>=4.9.3
+python-multipart>=0.0.5
+pydantic>=1.8.2
